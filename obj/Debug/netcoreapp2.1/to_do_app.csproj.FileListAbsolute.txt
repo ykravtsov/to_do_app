@@ -1,0 +1,14 @@
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\bin\Debug\netcoreapp2.1\to_do_app.deps.json
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\bin\Debug\netcoreapp2.1\to_do_app.runtimeconfig.json
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\bin\Debug\netcoreapp2.1\to_do_app.runtimeconfig.dev.json
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\bin\Debug\netcoreapp2.1\to_do_app.dll
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.csprojAssemblyReference.cache
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.csproj.CoreCompileInputs.cache
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.RazorAssemblyInfo.cache
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.RazorAssemblyInfo.cs
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.AssemblyInfoInputs.cache
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.AssemblyInfo.cs
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.RazorTargetAssemblyInfo.cache
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\bin\Debug\netcoreapp2.1\to_do_app.pdb
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.dll
+C:\Users\ykrav\Documents\DotNetPlayground\to_do_app\obj\Debug\netcoreapp2.1\to_do_app.pdb
